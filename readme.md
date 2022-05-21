@@ -13,9 +13,9 @@ Uma pequena API para demonstrar o disparo de emails com a lib Nodemailer 💻
 
 As seguintes ferramentas foram usadas na construção deste projeto:
 
-- [NodeJs](https://nodejs.org/en/) ![](https://img.shields.io/badge/--339933.svg?style=flat&logoColor=FAFAFF&logo=node.js)
+- [NodeJs](https://nodejs.org/en/) ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=339933&logo=node.js)
 - [NodeMailer](https://nodemailer.com/about/) ![](https://img.shields.io/badge/--339933.svg?style=flat&logoColor=FAFAFF&logo=node.js)
-- [Nodemon](https://www.npmjs.com/package/nodemon) ![](https://img.shields.io/badge/--339933.svg?style=flat&logoColor=FAFAFF&logo=nodemon)
+- [Nodemon](https://www.npmjs.com/package/nodemon) ![](https://img.shields.io/badge/--339933.svg?style=flat&logoColor=0D0D0D&logo=nodemon)
 
 ---
 
