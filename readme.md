@@ -13,9 +13,9 @@ Uma pequena API para demonstrar o disparo de emails com a lib Nodemailer 💻
 
 As seguintes ferramentas foram usadas na construção deste projeto:
 
-- [NodeJs](https://nodejs.org/en/) ![](https://img.shields.io/badge/--0D0D0D.svg?style=flat&logoColor=61dafb&logo=react)
-- [NodeMailer](https://nodemailer.com/about/) ![](https://img.shields.io/badge/--FAFAFF.svg?style=flat&logoColor=1572b6&logo=css3)
-- [Nodemon](https://www.npmjs.com/package/nodemon) ![](https://img.shields.io/badge/--0D0D0D.svg?style=flat&logoColor=61dafb&logo=nodemon)
+- [NodeJs](https://nodejs.org/en/) ![](https://img.shields.io/badge/--339933.svg?style=flat&logoColor=FAFAFF&logo=node.js)
+- [NodeMailer](https://nodemailer.com/about/) ![](https://img.shields.io/badge/--339933.svg?style=flat&logoColor=FAFAFF&logo=node.js)
+- [Nodemon](https://www.npmjs.com/package/nodemon) ![](https://img.shields.io/badge/--339933.svg?style=flat&logoColor=FAFAFF&logo=nodemon)
 
 ---
 
@@ -42,7 +42,7 @@ $ npm run dev
 
 ```
 #### Importante ⚠️
-No arquivo smpt.js na pasta $config, certifique de colocar as credencias suas do gmail, que é o serviço que uso para exemplo de envio dos emails. 
+No arquivo **smpt.js** na pasta **config**, certifique de colocar as credencias suas do gmail, que é o serviço que uso para exemplo de envio dos emails. 
 Você também pode utilizar outros serviços como o [MailTrap](https://mailtrap.io/).😉
   
 ---
